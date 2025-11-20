@@ -41,6 +41,6 @@ This project uses **OpenCV**, **Tesseract OCR**, **NumPy**, and **Python automat
 ### **1️⃣ Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/umaradnaan123/smart-whiteboard-launcher.git
+cd smart-whiteboard-launcher
 # smart-whiteboard-launcher
